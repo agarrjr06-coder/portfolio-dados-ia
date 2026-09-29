@@ -17,17 +17,17 @@ Curso **Análise e Desenvolvimento de Sistemas (ADS)**, com formação também v
 
 ## 📂 Projetos em destaque
 
-### [Data Cleaning CRM](https://github.com/agarrjr06-coder/data_cleaning.py)
+### [Data Cleaning CRM](https://github.com/agarrjr06-coder/data-cleaning-crm)
 Pipeline em Python para limpeza e transformação de dados exportados de CRM, com extração de informações textuais, normalização de datas, validação de campos e geração de base estruturada para análise.
 
 **Demonstra:** Python, Pandas, Regex, qualidade de dados e ETL.
 
-### [SLA de Cadastro](https://github.com/agarrjr06-coder/sla_cadastro.py)
+### [SLA de Cadastro](https://github.com/agarrjr06-coder/sla-cadastro-bi)
 Processamento de uma base tratada para cálculo de tempo entre eventos, classificação de SLA e tratamento de registros com datas ausentes ou inconsistentes.
 
 **Demonstra:** Pandas, regras de negócio, validação de dados e geração de indicadores.
 
-### [Excel para CSV](https://github.com/agarrjr06-coder/conversao_xlsx_csv_p_sql)
+### [Excel para CSV](https://github.com/agarrjr06-coder/excel-to-csv-pipeline)
 Automação da conversão de planilhas `.xlsx` para CSV padronizado, pronta para uso em fluxos de BI, ETL ou carga posterior em banco de dados.
 
 **Demonstra:** automação de rotina, Pandas, OpenPyXL e preparação de dados.
