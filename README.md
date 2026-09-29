@@ -1,4 +1,4 @@
-# Olá, eu sou o Agnaldo 👋
+# Agnaldo Arruda | Dados, BI & Integração 👋
 
 Sou profissional da área de **Dados e Business Intelligence**, com experiência prática em integração de sistemas, tratamento e validação de dados, automação de rotinas e construção de indicadores.
 
